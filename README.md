@@ -135,7 +135,7 @@ Explore individual game performance using interactive filters for console, genre
 Explores whether higher critic scores are associated with stronger commercial performance.
 
 <p align="center">
-  <img src="Dashboard/Critic Score vs Sales.png" width="80%">
+  <img src="Dashboard/Critic Scores vs Sales.png" width="80%">
 </p>
 
 ***
